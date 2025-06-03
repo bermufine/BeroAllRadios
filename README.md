@@ -22,6 +22,8 @@
 
 {"descriptions":"RDC Gospel fm est une l'une des radios chrétiennes de la Republique Democratique du Congo, Emettant a kinshasa avec des musiques religieuses et prédications","source":["https://ca.publicssl.net:443/7002/"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODgwNzM5MTBf/rdcgospel.jpg","titles":"RDC GOSPEL"},
 
+{"descriptions":"Emergence FM est l'une des radios de la Republique Democratique du Congo Generaliste qui Emettant a Kolwezi (RDC) avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre.","source":["https://rtefm-lbfdbroadcast.radioca.st/;"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NDZfODIwMTQzNjlf/emergence.jpg","titles":"EMERGENCE FM"},
+
 {"descriptions":"Kinmedia FM is an International online Radio that plays Rhumba music . We mainly broadcast in English , Kiswahili and Lingala.","source":["https://stream.zeno.fm/sfnwvtfelzzvv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU3OTkzMzBf/kinmediafm.jpg ","titles":"KIN MEDIA"},
 
 {"descriptions":"Bero Gospl FM est l'une des radios de la Republique Democratique du Congo Generaliste qui Emettant a Kinshasa (RDC) avec la diversite sans stop de la Musique Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com","source":["https://stream.zeno.fm/3rbd2vdzpqlvv.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTE5NzA3ODRf/radiobero.png","titles":"BERO GOSPEL"},

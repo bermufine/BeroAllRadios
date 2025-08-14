@@ -35,6 +35,8 @@
 
 {"descriptions":"Bero Gospl FM est l'une des radios de la Republique Democratique du Congo Generaliste qui Emettant a Kinshasa (RDC) avec la diversite sans stop de la Musique Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com","source":["https://stream.zeno.fm/3rbd2vdzpqlvv.mp3"],"subtitles":"All Radios","thumbs":"https://od.lk/s/M18yOTE5NzA3ODRf/radiobero.png","titles":"BERO GOSPEL"},
 
+{"descriptions":"Vision Media FM est l'une des radios de la Republique Democratique du Congo Generaliste qui Emettant n RDC avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre.","source":["http://dione.shoutca.st:8810/index"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NDZfODQ3NDE3NjFf/visionMedia.jpg","titles":"VISION MEDIA FM"},
+
 {"descriptions":"Ev -Radio est une radio à caractère humanitaire destinée à la production et à la diffusion des contenus de communication et d'information en rapport avec les actions, les problèmes de personnes vulnérables, à la formation et au divertissement de celles-ci","source":["https://stream.zeno.fm/3rbd2vdzpqlvv.mp3"],"subtitles":"BAll Radios","thumbs":"https://od.lk/s/NzNfODA4NTQ2OTZf/evRadio.jpg","titles":"EV RADIO"},
 
 {"descriptions":"Pourim fm est une radio chretienne emettant a kinshasa pour l'edification des chretiens de partout","source":["https://zoka.radioca.st/stream?type=http&nocache=1489"],"subtitles":"All Radios","thumbs":"https://od.lk/s/M18yODY4OTExMTlf/pourimfm.jpg","titles":"POURIM FM"},

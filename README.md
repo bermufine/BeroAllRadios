@@ -27,6 +27,8 @@
 
 {"descriptions":"La RADIO CITOYENNE DES JEUNES en sigle RCJ est la première radio à caractère éducatif au Congo dédiée à la jeunesse. Pour tout contact => Téléphone : +242 05 350 50 23 et Mail : rcj.congo@gmail.com","source":["https://rcj.radioca.st/stream?type=http&nocache=21031"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NzNfODA2NjU5NzRf/rcjFm.jpg","titles":"RCJ RADIO"},
 
+{"descriptions":"Radio ACR FM est l'une des radios de la Republique Democratique du Congo Generaliste avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre.","source":["https://acr-lbfdbroadcast.radioca.st/;"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NDZfODU5MTAzODJf/acrfm.jpg","titles":"ACR FM"},
+
 {"descriptions":"Radio Télé Silo est une chaîne chrétienne, une chaîne de l'excellence","source":["https://play.radioking.io/radio-tele-silo"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NDZfNTg4MjI5NDhf/Silotv.jpg","titles":"RADIO TÉLÉ SILO"},
 
 {"descriptions":"RDC Gospel fm est une l'une des radios chrétiennes de la Republique Democratique du Congo, Emettant a kinshasa avec des musiques religieuses et prédications","source":["https://ca.publicssl.net:443/7002/"],"subtitles":"All Radios","thumbs":"https://od.lk/s/M18yODgwNzM5MTBf/rdcgospel.jpg","titles":"RDC GOSPEL"},

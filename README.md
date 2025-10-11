@@ -29,6 +29,8 @@
 
 {"descriptions":"Radio ACR FM est l'une des radios de la Republique Democratique du Congo Generaliste avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre.","source":["https://acr-lbfdbroadcast.radioca.st/;"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NDZfODU5MTAzODJf/acrfm.jpg","titles":"ACR FM"},
 
+{"descriptions":"scoop Fm  une station d'information générale utilisée pour diffuser des informations  transmettent des informations, de la musique et d'autres programmes.","source":["https://stream.zeno.fm/wvyo5z9mqhkuv"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NDZfODY3NzM1NDdf/scoopfm.jpg","titles":"SCOOP FM"},
+
 {"descriptions":"Radio Télé Silo est une chaîne chrétienne, une chaîne de l'excellence","source":["https://play.radioking.io/radio-tele-silo"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NDZfNTg4MjI5NDhf/Silotv.jpg","titles":"RADIO TÉLÉ SILO"},
 
 {"descriptions":"RDC Gospel fm est une l'une des radios chrétiennes de la Republique Democratique du Congo, Emettant a kinshasa avec des musiques religieuses et prédications","source":["https://ca.publicssl.net:443/7002/"],"subtitles":"All Radios","thumbs":"https://od.lk/s/M18yODgwNzM5MTBf/rdcgospel.jpg","titles":"RDC GOSPEL"},

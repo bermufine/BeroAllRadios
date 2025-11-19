@@ -23,6 +23,8 @@
 
 {"descriptions":"La RADIO CITOYENNE DES JEUNES en sigle RCJ est la première radio à caractère éducatif au Congo dédiée à la jeunesse. Pour tout contact => Téléphone : +242 05 350 50 23 et Mail : rcj.congo@gmail.com","source":["https://rcj.radioca.st/stream?type=http&nocache=21031"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NzNfODA2NjU5NzRf/rcjFm.jpg","titles":"RCJ RADIO"},
 
+{"descriptions":"Radio Géant est l'une des radios de la Republique Democratique du Congo Generaliste qui Emettant depuis Kolwezi (RDC) avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre.","source":["https://servidor37.brlogic.com:7080/live"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NDZfODg5MDg4ODVf/radiogeant.PNG","titles":"RADIO GEANT"},
+
 {"descriptions":"scoop Fm  une station d'information générale utilisée pour diffuser des informations  transmettent des informations, de la musique et d'autres programmes.","source":["https://stream.zeno.fm/wvyo5z9mqhkuv"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NDZfODY3NzM1NDdf/scoopfm.jpg","titles":"SCOOP FM"},
 
 {"descriptions":"Radio Télé Silo est une chaîne chrétienne, une chaîne de l'excellence","source":["https://play.radioking.io/radio-tele-silo"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NDZfNTg4MjI5NDhf/Silotv.jpg","titles":"RADIO TÉLÉ SILO"},

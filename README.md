@@ -23,6 +23,8 @@
 
 {"descriptions":"La RADIO CITOYENNE DES JEUNES en sigle RCJ est la première radio à caractère éducatif au Congo dédiée à la jeunesse. Pour tout contact => Téléphone : +242 05 350 50 23 et Mail : rcj.congo@gmail.com","source":["https://rcj.radioca.st/stream?type=http&nocache=21031"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NzNfODA2NjU5NzRf/rcjFm.jpg","titles":"RCJ RADIO"},
 
+{"descriptions":"Hope Etra fm est une radio 📻 chretienne emettant a Johannesburg South african diffuse 24/24 en ligne riche aux predications, emissions, musique, culturel, et autres 24h/24 nous sommes en direct sur page Facebook, YouTube, website www.hopetvafrica.co.za Google play store hope tv africa email 📧 hopetvafrica2020@gmail.com contact 0027846809542","source":["https://fm-radio.hopetvafrica.com/live"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NDZfODkwMDUyMTNf/hopeExtraFM.jpg","titles":"HOPE EXTRA  FM"},
+
 {"descriptions":"Radio Géant est l'une des radios de la Republique Democratique du Congo Generaliste qui Emettant depuis Kolwezi (RDC) avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre.","source":["https://servidor37.brlogic.com:7080/live"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NDZfODg5MDg4ODVf/radiogeant.PNG","titles":"RADIO GEANT"},
 
 {"descriptions":"scoop Fm  une station d'information générale utilisée pour diffuser des informations  transmettent des informations, de la musique et d'autres programmes.","source":["https://stream.zeno.fm/wvyo5z9mqhkuv"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NDZfODY3NzM1NDdf/scoopfm.jpg","titles":"SCOOP FM"},
@@ -162,8 +164,6 @@
 {"descriptions":"Emettant depuis Goma en R.D.C, Océan FM est une radio culturelle humanitaire. Une organisation des communautés pour des échanges et analyses dans la lutte pour le retour de la paix. Sous la fréquence modulée est 100.0 MHz en ville de GOMA, Océan Fm diffuse un programme rempli. La promotion des artistes locaux et nationaux, des émissions sous différents thèmes et sujets, l’actualité est au rendez-vous à part des meilleurs sélections musicales de tout genre","source":["https://stream-017.zeno.fm:443/wnawq794tk8uv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODc5NzgxNzlf/ocean.jpeg","titles":"OCÉAN FM"},
 
 {"descriptions":"Yakala fm est une station indépendante pour la génération en ligne, connectant ceux qui ont déjà un lien fort avec le Congo.","source":["https://yakalafm.ice.infomaniak.ch:443/yakalafm-128.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY2MTYxMjhf/yakala.png","titles":"YAKALA FM"},
-
-{"descriptions":"Hope fm africa est une radio 📻 chretienne emettant a Johannesburg South african diffuse 24/24 en ligne riche aux predications, emissions, musique, culturel, et autres 24h/24 nous sommes en direct sur page Facebook, YouTube, website www.hopetvafrica.co.za Google play store hope tv africa email 📧 hopetvafrica2020@gmail.com contact 0027846809542","source":["https://yakalafm.ice.infomaniak.ch:443/yakalafm-128.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODc4MTQzNzNf/HopeAfricaFm.jpg","titles":"HOPE FM AFRICA"},
 
 {"descriptions":"Bomoko fm est une station indépendante pour la génération en ligne, connectant ceux qui ont déjà un lien fort avec le Congo.","source":["https://stream.streamaudio.de:8000/radio-bomoko"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY2MTcyNTJf/bomoko.webp","titles":"BOMOKO FM"},
 

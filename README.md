@@ -19,6 +19,8 @@
 
 {"descriptions":"BlueSky FM est l'une des radios privee Generaliste qui Emettant en Republique Democratique du Congo avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com","source":["https://stream.zeno.fm/clkive9b4butv.mp3"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NDZfODQxNjE2MzZf/blueskyfm.jpg","titles":"BLUESKY FM"},
 
+{"descriptions":"Chill Radio est une station indépendante pour la génération en ligne, connectant ceux qui ont déjà un lien fort avec le Cameroune.","source":["https://ec7.yesstreaming.net:2165/stream"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NDZfODk0MjQ4MjRf/chillRadio.jpg","titles":"CHILL RADIO"},
+
 {"descriptions":"SB FM Broadcasting est l'une des radios de la Republique Democratique du Congo Generaliste qui Emettant a Kolwezi (RDC) avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre.","source":["https://stream.zeno.fm/ety7mydhlzwtv"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NDZfODQzMTM2NDNf/sbfm.jpg","titles":"SB FM"},
 
 {"descriptions":"La RADIO CITOYENNE DES JEUNES en sigle RCJ est la première radio à caractère éducatif au Congo dédiée à la jeunesse. Pour tout contact => Téléphone : +242 05 350 50 23 et Mail : rcj.congo@gmail.com","source":["https://rcj.radioca.st/stream?type=http&nocache=21031"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NzNfODA2NjU5NzRf/rcjFm.jpg","titles":"RCJ RADIO"},

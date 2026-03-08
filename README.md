@@ -24,6 +24,15 @@
           "thumbs": "https://od.lk/s/NDZfODk2NzQ0ODNf/sarahtv.jpg",
           "titles": "RTV SARAH"
 },
+{
+     "descriptions": "NURU radio télévision c’est une chaîne religieuse émettant depuis la République démocratique du Congo 🇨🇩 dans la province du haut katanga tout précisément dans la ville de LIKASI NOTRE fréquence radio 90.5 Fm , 525.25 MHz à la télévision",
+          "source": [
+            "https://stream.zeno.fm/gc0xygqsvfmvv.mp3"
+          ],
+          "subtitles": "All Channels",
+          "thumbs": "https://od.lk/s/NDZfOTEyNzMzNTJf/nurutv.jpg",
+          "titles": "NURU FM"
+},
 
 {"descriptions":"GCM RADIO est une web radio thématique émettant de Brazzaville au Congo : culture, société, sport environnement. Pour tout contact : +242 065 12 54 97","source":["https://gcmradio.radioca.st/autodj"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NzNfODA1NzQ1Njdf/gcmradio.jpg","titles":"GCM RADIO"},
 

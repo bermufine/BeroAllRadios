@@ -13,6 +13,16 @@
 
 {"descriptions":"UDPS RADIO est l'une des stations de musique les plus populaires. Station UDPS RADIO diffusant de la musique et des programmes à la fois dans l'air et en ligne. À l'origine, il s'agit d'une chaîne de radio pop, d'actualités et de discussion diffusée 24 heures sur 24 en ligne. UDPS RADIO exploite également divers programmes musicaux de manière cohérente pour les personnes de tous âges.","source":["http://37.59.42.207:9194/"],"subtitles":"All Radios","thumbs":"https://od.lk/s/M18yODY1NzM5Mzlf/udps.png","titles":"UDPS FM"},
 
+{
+     "descriptions": "Central Voice FM, Cntral Voce Television is a broadcasting channel from Zambia",
+          "source": [
+            "https://www.twitch.tv/centralvoiceradio?sr=a"
+          ],
+          "subtitles": "All Channels",
+          "thumbs": "https://od.lk/s/NDZfOTE0MDY5ODNf/centralvoicefm.jpg",
+          "titles": "CENTRAL-V FM"
+},
+
 {"descriptions":"Radio Egg Pro fm est une station indépendante pour la génération en ligne, connectant ceux qui ont déjà un lien fort avec le Congo.","source":["http://dione.shoutca.st:8359/index?fbclid=IwZXh0bgNhZW0CMTEAAR0Jgic_SR2u947hJOlQy9fziQVjgGsGBXFqDXGzvtwV5BElDNT2oCS9HXs_aem_ZmFrZWR1bW15MTZieXRlcw"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NDZfODgwNjAxODZf/eggFM.jpg","titles":"RADIO EGG PRO FM"},
 
 {"descriptions":"EMB-Mission FM est l'une des radios de la Republique Democratique du Congo Generaliste qui Emettant a Kinshasa (RDC) avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com","source":["https://stream.zeno.fm/3rbd2vdzpqlvv.mp3"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NDZfODA3NDk2MzBf/embtv.jpg","titles":"EMB-MISSION"},
@@ -27,7 +37,7 @@
           "titles": "RTV SARAH"
 },
 {
-     "descriptions": "NURU radio télévision c’est une chaîne religieuse émettant depuis la République démocratique du Congo 🇨🇩 dans la province du haut katanga tout précisément dans la ville de LIKASI NOTRE fréquence radio 90.5 Fm , 525.25 MHz à la télévision",
+     "descriptions": "NURU radio c’est une chaîne religieuse émettant depuis la République démocratique du Congo 🇨🇩 dans la province du haut katanga tout précisément dans la ville de LIKASI NOTRE fréquence radio 90.5 Fm , 525.25 MHz à la télévision",
           "source": [
             "https://stream.zeno.fm/gc0xygqsvfmvv.mp3"
           ],

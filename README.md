@@ -14,7 +14,7 @@
 {"descriptions":"UDPS RADIO est l'une des stations de musique les plus populaires. Station UDPS RADIO diffusant de la musique et des programmes à la fois dans l'air et en ligne. À l'origine, il s'agit d'une chaîne de radio pop, d'actualités et de discussion diffusée 24 heures sur 24 en ligne. UDPS RADIO exploite également divers programmes musicaux de manière cohérente pour les personnes de tous âges.","source":["http://37.59.42.207:9194/"],"subtitles":"All Radios","thumbs":"https://od.lk/s/M18yODY1NzM5Mzlf/udps.png","titles":"UDPS FM"},
 
 {
-     "descriptions": "Central Voice FM, Cntral Voce Television is a broadcasting channel from Zambia",
+     "descriptions": "Central Voice Radio is Zambia's premier 24/7 radio station, bringing you the latest news, current affairs, and community stories. Tune in for engaging talk shows, gospel music, and uplifting content that inspires and informs.",
           "source": [
             "https://www.twitch.tv/centralvoiceradio?sr=a"
           ],

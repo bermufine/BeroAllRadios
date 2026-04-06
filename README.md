@@ -16,7 +16,7 @@
 {
      "descriptions": "Central Voice Radio is Zambia's premier 24/7 radio station, bringing you the latest news, current affairs, and community stories. Tune in for engaging talk shows, gospel music, and uplifting content that inspires and informs.",
           "source": [
-            "https://www.twitch.tv/centralvoiceradio?sr=a"
+            "http://radiostation.berosat.live/listen/centralvoice_radio/radio.mp3"
           ],
           "subtitles": "All Channels",
           "thumbs": "https://od.lk/s/NDZfOTE0MDY5ODNf/centralvoicefm.jpg",

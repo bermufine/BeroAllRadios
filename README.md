@@ -1,27 +1,14 @@
 # BeroAllRadios
-{"categorie":[{"names":"Movie","videos":[{"descriptions":"Radio Baraka est l'une des radios de la Republique Democratique du Congo Generaliste qui Emettant depuis Likasi (RDC) avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre.","source":["https://stream.zeno.fm/byat2g7sixwvv"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NDZfODUyODAwMTNf/barakaradio.jpg","titles":"RADIO BARAKA"},
-
-{"descriptions":"Grand Media FM est l'une des radios de la Republique Democratique du Congo Generaliste qui Emettant a Kolwezi (RDC) avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre.","source":["https://sam-lbfdbroadcast.radioca.st/;"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NDZfODIwMTQwOTNf/grandMediaFM.jpg","titles":"GRAND MEDIA FM"},
-
-{"descriptions":"Radio de la Femme, est une Chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....","source":["https://stream.berosat.live:8158/stream"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NDZfOTEzNzg4MTVf/rtvfemme.png","titles":"RADIO FEMME"},
-
-{"descriptions":"Radio Voxkongo.cd est une plateforme novatrice de diffusion en ligne, établie au cœur de l'Afrique centrale, dans la ville de Lubumbashi en République Démocratique du Congo. Elle s'engage à promouvoir la culture, le sport et les enjeux politiques mondiaux. En tant que porte-parole de la région, Radio Voxkongo s'emploie à créer des liens entre les communautés en partageant des récits, des analyses et des perspectives uniques.","source":["https://stream.zeno.fm/e8y0p5vgmijvv.mp3"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NDZfODQzMTM2MzZf/radioVoxkongo.jpg","titles":"VOXKONGO FM"},
-
-{"descriptions":"Bero FM est l'une des radios de la Republique Democratique du Congo Generaliste qui Emettant a Kinshasa (RDC) avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com","source":["https://stream.zeno.fm/eyuiqh60p1qtv.mp3"],"subtitles":"All Radios","thumbs":"https://od.lk/s/M18yOTE5NzA3ODRf/radiobero.png","titles":"BERO FM"},
-
-{"descriptions":"Radio EVI est une de radio de la RDCongo, radio en evenementiel qui propose une programmation variée pour toute la famille. Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV. Pour tout contact : evitvrdc5@gmail.com","source":["https://stream.zeno.fm/bgblkbhq4kjuv.mp3"],"subtitles":"All Channels","thumbs":"https://od.lk/s/NDZfNjI3MjQyNzZf/Eviradio.jpg","titles":"RADIO EVI"},
-
+{"categorie":[{"names":"Movie","videos":[
 {
-     "descriptions": "RADIO OCEAN est l'une des stations de musique les plus populaires. Station diffusant de la musique et des programmes à la fois dans l'air et en ligne. À l'origine, il s'agit d'une chaîne de radio pop, d'actualités et de discussion diffusée 24 heures sur 24 en ligne. exploite également divers programmes musicaux de manière cohérente pour les personnes de tous âges.",
+     "descriptions": "Kurtura fm est l'une des stations de musique les plus populaires. Station diffusant de la musique et des programmes à la fois dans l'air et en ligne. À l'origine, il s'agit d'une chaîne de radio pop, d'actualités et de discussion diffusée 24 heures sur 24 en ligne. exploite également divers programmes musicaux de manière cohérente pour les personnes de tous âges.",
           "source": [
-            "http://radiostation.berosat.live/listen/radio_bero/radio.mp3"
+            "https://kulturafm.ice.infomaniak.ch/kulturafm-128.aac"
           ],
           "subtitles": "All Channels",
-          "thumbs": "https://od.lk/s/NDZfOTE0MjI4NDlf/oceantele.jpg",
-          "titles": "RADIO OCEAN"
+          "thumbs": "https://od.lk/s/NDZfOTI5OTc5ODhf/kultura.jpg",
+          "titles": "KURTURA FM"
 },
-
-{"descriptions":"UDPS RADIO est l'une des stations de musique les plus populaires. Station UDPS RADIO diffusant de la musique et des programmes à la fois dans l'air et en ligne. À l'origine, il s'agit d'une chaîne de radio pop, d'actualités et de discussion diffusée 24 heures sur 24 en ligne. UDPS RADIO exploite également divers programmes musicaux de manière cohérente pour les personnes de tous âges.","source":["http://37.59.42.207:9194/"],"subtitles":"All Radios","thumbs":"https://od.lk/s/M18yODY1NzM5Mzlf/udps.png","titles":"UDPS FM"},
 
 {
      "descriptions": "Central Voice Radio is Zambia's premier 24/7 radio station, bringing you the latest news, current affairs, and community stories. Tune in for engaging talk shows, gospel music, and uplifting content that inspires and informs.",
@@ -32,10 +19,43 @@
           "thumbs": "https://od.lk/s/NDZfOTE0MDY5ODNf/centralvoicefm.jpg",
           "titles": "CENTRAL-V FM"
 },
+{
+     "descriptions": "RADIO OCEAN est l'une des stations de musique les plus populaires. Station diffusant de la musique et des programmes à la fois dans l'air et en ligne. À l'origine, il s'agit d'une chaîne de radio pop, d'actualités et de discussion diffusée 24 heures sur 24 en ligne. exploite également divers programmes musicaux de manière cohérente pour les personnes de tous âges.",
+          "source": [
+            "http://radiostation.berosat.live/listen/radio_bero/radio.mp3"
+          ],
+          "subtitles": "All Channels",
+          "thumbs": "https://od.lk/s/NDZfOTE0MjI4NDlf/oceantele.jpg",
+          "titles": "RADIO OCEAN"
+},
+
+{
+     "descriptions": "Cemitel FMest l'une des radios de la Republique Democratique du Congo Generaliste qui Emettant a Kinshasa (RDC).",
+          "source": [
+            "https://radiostation.berosat.live/listen/cemitel_fm/radio.mp3"
+          ],
+          "subtitles": "All Channels",
+          "thumbs": "https://od.lk/s/NDZfOTMwMzAzNjhf/cemitelfm.jpg",
+          "titles": "CEMITEL FM"
+},
+
+{"descriptions":"Grand Media FM est l'une des radios de la Republique Democratique du Congo Generaliste qui Emettant a Kolwezi (RDC) avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre.","source":["https://sam-lbfdbroadcast.radioca.st/;"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NDZfODIwMTQwOTNf/grandMediaFM.jpg","titles":"GRAND MEDIA FM"},
+
+{"descriptions":"Radio de la Femme, est une Chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....","source":["https://stream.berosat.live:8158/stream"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NDZfOTEzNzg4MTVf/rtvfemme.png","titles":"RADIO FEMME"},
+
+{"descriptions":"Radio Voxkongo.cd est une plateforme novatrice de diffusion en ligne, établie au cœur de l'Afrique centrale, dans la ville de Lubumbashi en République Démocratique du Congo. Elle s'engage à promouvoir la culture, le sport et les enjeux politiques mondiaux. En tant que porte-parole de la région, Radio Voxkongo s'emploie à créer des liens entre les communautés en partageant des récits, des analyses et des perspectives uniques.","source":["https://stream.zeno.fm/e8y0p5vgmijvv.mp3"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NDZfODQzMTM2MzZf/radioVoxkongo.jpg","titles":"VOXKONGO FM"},
+
+{"descriptions":"Radio Baraka est l'une des radios de la Republique Democratique du Congo Generaliste qui Emettant depuis Likasi (RDC) avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre.","source":["https://stream.zeno.fm/byat2g7sixwvv"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NDZfODUyODAwMTNf/barakaradio.jpg","titles":"RADIO BARAKA"},
+
+{"descriptions":"Bero FM est l'une des radios de la Republique Democratique du Congo Generaliste qui Emettant a Kinshasa (RDC) avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com","source":["https://stream.zeno.fm/eyuiqh60p1qtv.mp3"],"subtitles":"All Radios","thumbs":"https://od.lk/s/M18yOTE5NzA3ODRf/radiobero.png","titles":"BERO FM"},
+
+{"descriptions":"Radio EVI est une de radio de la RDCongo, radio en evenementiel qui propose une programmation variée pour toute la famille. Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV. Pour tout contact : evitvrdc5@gmail.com","source":["https://stream.zeno.fm/bgblkbhq4kjuv.mp3"],"subtitles":"All Channels","thumbs":"https://od.lk/s/NDZfNjI3MjQyNzZf/Eviradio.jpg","titles":"RADIO EVI"},
+
+{"descriptions":"UDPS RADIO est l'une des stations de musique les plus populaires. Station UDPS RADIO diffusant de la musique et des programmes à la fois dans l'air et en ligne. À l'origine, il s'agit d'une chaîne de radio pop, d'actualités et de discussion diffusée 24 heures sur 24 en ligne. UDPS RADIO exploite également divers programmes musicaux de manière cohérente pour les personnes de tous âges.","source":["http://37.59.42.207:9194/"],"subtitles":"All Radios","thumbs":"https://od.lk/s/M18yODY1NzM5Mzlf/udps.png","titles":"UDPS FM"},
 
 {"descriptions":"Radio Egg Pro fm est une station indépendante pour la génération en ligne, connectant ceux qui ont déjà un lien fort avec le Congo.","source":["http://dione.shoutca.st:8359/index?fbclid=IwZXh0bgNhZW0CMTEAAR0Jgic_SR2u947hJOlQy9fziQVjgGsGBXFqDXGzvtwV5BElDNT2oCS9HXs_aem_ZmFrZWR1bW15MTZieXRlcw"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NDZfODgwNjAxODZf/eggFM.jpg","titles":"RADIO EGG PRO FM"},
 
-{"descriptions":"EMB-Mission FM est l'une des radios de la Republique Democratique du Congo Generaliste qui Emettant a Kinshasa (RDC) avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com","source":["https://stream.zeno.fm/3rbd2vdzpqlvv.mp3"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NDZfODA3NDk2MzBf/embtv.jpg","titles":"EMB-MISSION"},
+{"descriptions":"EMB-Mission FM est l'une des radios de la Republique Democratique du Congo Generaliste qui Emettant a Kinshasa (RDC)","source":["https://stream.zeno.fm/3rbd2vdzpqlvv.mp3"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NDZfODA3NDk2MzBf/embtv.jpg","titles":"EMB-MISSION"},
 
 {
      "descriptions": "Sarah télévision, est une chaîne généraliste émettant en République Démocratique du Congo, Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques.",
@@ -46,15 +66,7 @@
           "thumbs": "https://od.lk/s/NDZfODk2NzQ0ODNf/sarahtv.jpg",
           "titles": "RTV SARAH"
 },
-{
-     "descriptions": "Kurtura fm est l'une des stations de musique les plus populaires. Station diffusant de la musique et des programmes à la fois dans l'air et en ligne. À l'origine, il s'agit d'une chaîne de radio pop, d'actualités et de discussion diffusée 24 heures sur 24 en ligne. exploite également divers programmes musicaux de manière cohérente pour les personnes de tous âges.",
-          "source": [
-            "https://kulturafm.ice.infomaniak.ch/kulturafm-128.aac"
-          ],
-          "subtitles": "All Channels",
-          "thumbs": "https://od.lk/s/NDZfOTI5OTc5ODhf/kultura.jpg",
-          "titles": "KURTURA FM"
-},
+
 {
      "descriptions": "NURU radio c’est une chaîne religieuse émettant depuis la République démocratique du Congo 🇨🇩 dans la province du haut katanga tout précisément dans la ville de LIKASI NOTRE fréquence radio 90.5 Fm , 525.25 MHz à la télévision",
           "source": [
@@ -243,7 +255,21 @@
 
 {"descriptions":"Vision Media FM est l'une des radios de la Republique Democratique du Congo Generaliste qui Emettant n RDC avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre.","source":["http://dione.shoutca.st:8810/index"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NDZfODQ3NDE3NjFf/visionMedia.jpg","titles":"VISION MEDIA FM"},
 
-{"descriptions":"Radio Baraka est l'une des radios de la Republique Democratique du Congo Generaliste qui Emettant depuis Likasi (RDC) avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre.","source":["https://stream.zeno.fm/byat2g7sixwvv"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NDZfODUyODAwMTNf/barakaradio.jpg","titles":"RADIO BARAKA"}]}]}
+{
+     "descriptions": "Kurtura fm est l'une des stations de musique les plus populaires. Station diffusant de la musique et des programmes à la fois dans l'air et en ligne. À l'origine, il s'agit d'une chaîne de radio pop, d'actualités et de discussion diffusée 24 heures sur 24 en ligne. exploite également divers programmes musicaux de manière cohérente pour les personnes de tous âges.",
+          "source": [
+            "https://kulturafm.ice.infomaniak.ch/kulturafm-128.aac"
+          ],
+          "subtitles": "All Channels",
+          "thumbs": "https://od.lk/s/NDZfOTI5OTc5ODhf/kultura.jpg",
+          "titles": "KURTURA FM"
+         }
+      ]
+    }
+  ]
+}
+
+
 
 
 {"descriptions":"Top Lualaba FM est l'une des radios de la Republique Democratique du Congo Generaliste qui Emettant a Kolwezi (RDC) avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre.","source":["https://rtlfm-lbfdbroadcast.radioca.st/;"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NDZfODIwMTQwOTRf/topLualabaFm.jpg","titles":"TOP LUALABA FM"},

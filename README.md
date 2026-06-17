@@ -39,6 +39,17 @@
           "titles": "CEMITEL FM"
 },
 
+{
+     "descriptions": "Étoile du berger Télévision (EDB FM), est une chaîne privée généraliste d'information, de formation et de divertissement.
+Nous émettons depuis la ville de Matadi en République Démocratique du Congo. EDB TV, la chaine qui vous informe, EDB TV, la  chaine qui vous éclaire, EDBTV, la chaine qui vous détend",
+          "source": [
+            "https://radiostation.berosat.live/listen/edb-fm/radio.mp3"
+          ],
+          "subtitles": "All Channels",
+          "thumbs": "https://od.lk/s/NDZfOTMwMzcwMDRf/Edbradio.jpg",
+          "titles": "EDB FM"
+},
+
 {"descriptions":"Grand Media FM est l'une des radios de la Republique Democratique du Congo Generaliste qui Emettant a Kolwezi (RDC) avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre.","source":["https://sam-lbfdbroadcast.radioca.st/;"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NDZfODIwMTQwOTNf/grandMediaFM.jpg","titles":"GRAND MEDIA FM"},
 
 {"descriptions":"Radio de la Femme, est une Chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....","source":["https://stream.berosat.live:8158/stream"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NDZfOTEzNzg4MTVf/rtvfemme.png","titles":"RADIO FEMME"},

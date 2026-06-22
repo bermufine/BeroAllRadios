@@ -1,13 +1,33 @@
 # BeroAllRadios
 {"categorie":[{"names":"Movie","videos":[
 {
-     "descriptions": "Kurtura fm est l'une des stations de musique les plus populaires. Station diffusant de la musique et des programmes à la fois dans l'air et en ligne. À l'origine, il s'agit d'une chaîne de radio pop, d'actualités et de discussion diffusée 24 heures sur 24 en ligne. exploite également divers programmes musicaux de manière cohérente pour les personnes de tous âges.",
+     "descriptions": "Étoile du berger Télévision (EDB FM), est une chaîne privée généraliste d'information, de formation et de divertissement.
+Nous émettons depuis la ville de Matadi en République Démocratique du Congo. EDB TV, la chaine qui vous informe, EDB TV, la  chaine qui vous éclaire, EDBTV, la chaine qui vous détend",
+          "source": [
+            "https://radiostation.berosat.live/listen/edb-fm/radio.mp3"
+          ],
+          "subtitles": "All Channels",
+          "thumbs": "https://od.lk/s/NDZfOTMwMzcwMDRf/Edbradio.jpg",
+          "titles": "EDB FM"
+},
+{
+     "descriptions": "Radio Rasoulu est la première radio islamique dans la ville de matadi en République Démocratique du Congo",
           "source": [
             "https://kulturafm.ice.infomaniak.ch/kulturafm-128.aac"
           ],
           "subtitles": "All Channels",
           "thumbs": "https://od.lk/s/NDZfOTI5OTc5ODhf/kultura.jpg",
           "titles": "KURTURA FM"
+},
+{
+     "descriptions": "Étoile du berger Télévision (EDB FM), est une chaîne privée généraliste d'information, de formation et de divertissement.
+Nous émettons depuis la ville de Matadi en République Démocratique du Congo. EDB TV, la chaine qui vous informe, EDB TV, la  chaine qui vous éclaire, EDBTV, la chaine qui vous détend",
+          "source": [
+            "https://radiostation.berosat.live/listen/radio_rasoulu/radio.mp3"
+          ],
+          "subtitles": "All Channels",
+          "thumbs": "https://od.lk/s/M18zMjk4MzY4MjBf/logoradio.jpg",
+          "titles": "RADIO RESOULU"
 },
 
 {
@@ -27,27 +47,6 @@
           "subtitles": "All Channels",
           "thumbs": "https://od.lk/s/NDZfOTE0MjI4NDlf/oceantele.jpg",
           "titles": "RADIO OCEAN"
-},
-
-{
-     "descriptions": "Cemitel FMest l'une des radios de la Republique Democratique du Congo Generaliste qui Emettant a Kinshasa (RDC).",
-          "source": [
-            "https://radiostation.berosat.live/listen/cemitel_fm/radio.mp3"
-          ],
-          "subtitles": "All Channels",
-          "thumbs": "https://od.lk/s/NDZfOTMwMzAzNjhf/cemitelfm.jpg",
-          "titles": "CEMITEL FM"
-},
-
-{
-     "descriptions": "Étoile du berger Télévision (EDB FM), est une chaîne privée généraliste d'information, de formation et de divertissement.
-Nous émettons depuis la ville de Matadi en République Démocratique du Congo. EDB TV, la chaine qui vous informe, EDB TV, la  chaine qui vous éclaire, EDBTV, la chaine qui vous détend",
-          "source": [
-            "https://radiostation.berosat.live/listen/edb-fm/radio.mp3"
-          ],
-          "subtitles": "All Channels",
-          "thumbs": "https://od.lk/s/NDZfOTMwMzcwMDRf/Edbradio.jpg",
-          "titles": "EDB FM"
 },
 
 {"descriptions":"Grand Media FM est l'une des radios de la Republique Democratique du Congo Generaliste qui Emettant a Kolwezi (RDC) avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre.","source":["https://sam-lbfdbroadcast.radioca.st/;"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NDZfODIwMTQwOTNf/grandMediaFM.jpg","titles":"GRAND MEDIA FM"},
@@ -267,14 +266,15 @@ Nous émettons depuis la ville de Matadi en République Démocratique du Congo. 
 {"descriptions":"Vision Media FM est l'une des radios de la Republique Democratique du Congo Generaliste qui Emettant n RDC avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre.","source":["http://dione.shoutca.st:8810/index"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NDZfODQ3NDE3NjFf/visionMedia.jpg","titles":"VISION MEDIA FM"},
 
 {
-     "descriptions": "Kurtura fm est l'une des stations de musique les plus populaires. Station diffusant de la musique et des programmes à la fois dans l'air et en ligne. À l'origine, il s'agit d'une chaîne de radio pop, d'actualités et de discussion diffusée 24 heures sur 24 en ligne. exploite également divers programmes musicaux de manière cohérente pour les personnes de tous âges.",
+     "descriptions": "Étoile du berger Télévision (EDB FM), est une chaîne privée généraliste d'information, de formation et de divertissement.
+Nous émettons depuis la ville de Matadi en République Démocratique du Congo. EDB TV, la chaine qui vous informe, EDB TV, la  chaine qui vous éclaire, EDBTV, la chaine qui vous détend",
           "source": [
-            "https://kulturafm.ice.infomaniak.ch/kulturafm-128.aac"
+            "https://radiostation.berosat.live/listen/edb-fm/radio.mp3"
           ],
           "subtitles": "All Channels",
-          "thumbs": "https://od.lk/s/NDZfOTI5OTc5ODhf/kultura.jpg",
-          "titles": "KURTURA FM"
-         }
+          "thumbs": "https://od.lk/s/NDZfOTMwMzcwMDRf/Edbradio.jpg",
+          "titles": "EDB FM"
+        }
       ]
     }
   ]
@@ -283,6 +283,15 @@ Nous émettons depuis la ville de Matadi en République Démocratique du Congo. 
 
 
 
+{
+     "descriptions": "Cemitel FMest l'une des radios de la Republique Democratique du Congo Generaliste qui Emettant a Kinshasa (RDC).",
+          "source": [
+            "https://radiostation.berosat.live/listen/cemitel_fm/radio.mp3"
+          ],
+          "subtitles": "All Channels",
+          "thumbs": "https://od.lk/s/NDZfOTMwMzAzNjhf/cemitelfm.jpg",
+          "titles": "CEMITEL FM"
+},
 {"descriptions":"Top Lualaba FM est l'une des radios de la Republique Democratique du Congo Generaliste qui Emettant a Kolwezi (RDC) avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre.","source":["https://rtlfm-lbfdbroadcast.radioca.st/;"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NDZfODIwMTQwOTRf/topLualabaFm.jpg","titles":"TOP LUALABA FM"},
 {"descriptions":"Vision Media FM est l'une des radios de la Republique Democratique du Congo Generaliste qui Emettant n RDC avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre.","source":["http://dione.shoutca.st:8810/index"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NDZfODQ3NDE3NjFf/visionMedia.jpg","titles":"VISION MEDIA FM"},
 {"descriptions":"Emergence FM est l'une des radios de la Republique Democratique du Congo Generaliste qui Emettant a Kolwezi (RDC) avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre.","source":["https://rtefm-lbfdbroadcast.radioca.st/;"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NDZfODIwMTQzNjlf/emergence.jpg","titles":"EMERGENCE FM"},

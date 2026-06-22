@@ -11,7 +11,7 @@ Nous émettons depuis la ville de Matadi en République Démocratique du Congo. 
           "titles": "EDB FM"
 },
 {
-     "descriptions": "Radio Rasoulu est la première radio islamique dans la ville de matadi en République Démocratique du Congo",
+     "descriptions": "Kultura fm est la première radio generaliste de la ville de Kinshasa en République Démocratique du Congo",
           "source": [
             "https://kulturafm.ice.infomaniak.ch/kulturafm-128.aac"
           ],
@@ -20,8 +20,7 @@ Nous émettons depuis la ville de Matadi en République Démocratique du Congo. 
           "titles": "KURTURA FM"
 },
 {
-     "descriptions": "Étoile du berger Télévision (EDB FM), est une chaîne privée généraliste d'information, de formation et de divertissement.
-Nous émettons depuis la ville de Matadi en République Démocratique du Congo. EDB TV, la chaine qui vous informe, EDB TV, la  chaine qui vous éclaire, EDBTV, la chaine qui vous détend",
+     "descriptions": "Radio Rasoulu est la première radio islamique dans la ville de matadi en République Démocratique du Congo",
           "source": [
             "https://radiostation.berosat.live/listen/radio_rasoulu/radio.mp3"
           ],

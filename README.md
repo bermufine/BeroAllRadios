@@ -48,6 +48,16 @@ Nous émettons depuis la ville de Matadi en République Démocratique du Congo. 
           "titles": "RADIO OCEAN"
 },
 
+{
+     "descriptions": "Lancée depuis le 30 juin 2004, Radio Bangu (qui tire son nom du Mont Cristal appelé Bangu)   est une radio communautaire à format généraliste qui a pour mission de promouvoir le développement social participatif et intégral de toute la communauté se trouvant dans son bassin d’écoute par les émissions sur le développement, la culture de la paix, les informations de proximité et le divertissement. Elle est au service de toutes les couches sociales sans discrimination aucune. Elle est l’outil d’expression, d’éducation, d’information et de divertissement des communautés de base. Son Géniteur  et  Directeur est Monsieur  Rigobert Malalako, Ingénieur Technicien   en Electronique, Journaliste formateur   en production animation radiophonique et actuellement Secrétaire Exécutif National de la FRPC.  Radio Bangu diffuse de 04h45 à 00h30 en dialectes locales notamment en Kindibu et en Manianga.  Le lingala, le kikongo, le français, le portugais et l’anglais s’ajoutent aux deux premières.",
+          "source": [
+            "https://radios.innovasat-ott.com/8126/stream"
+          ],
+          "subtitles": "All Channels",
+          "thumbs": "https://od.lk/s/M18zMjk4OTkxODBf/bangu.jpg",
+          "titles": "Radio Bangu Kimpese"
+},
+
 {"descriptions":"Grand Media FM est l'une des radios de la Republique Democratique du Congo Generaliste qui Emettant a Kolwezi (RDC) avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre.","source":["https://sam-lbfdbroadcast.radioca.st/;"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NDZfODIwMTQwOTNf/grandMediaFM.jpg","titles":"GRAND MEDIA FM"},
 
 {"descriptions":"Radio de la Femme, est une Chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....","source":["https://stream.berosat.live:8158/stream"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NDZfOTEzNzg4MTVf/rtvfemme.png","titles":"RADIO FEMME"},

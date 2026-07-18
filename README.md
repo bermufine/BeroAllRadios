@@ -20,6 +20,15 @@ Nous émettons depuis la ville de Matadi en République Démocratique du Congo. 
           "titles": "KURTURA FM"
 },
 {
+     "descriptions": "La Fréquence de pro par le Pro, Nous sommes Une Radio d'information dans la province du lualaba nous Emettons a partir de fungurume",
+          "source": [
+            "https://radiostation.berosat.live/listen/pro_fm_rdc/radio.mp3"
+          ],
+          "subtitles": "All Channels",
+          "thumbs": "https://od.lk/s/NDNfNDcxNjY1NzZf/Profmrdc.jpg",
+          "titles": "PRO FM RDC"
+},
+{
      "descriptions": "Radio Rasoulu est la première radio islamique dans la ville de matadi en République Démocratique du Congo",
           "source": [
             "https://radiostation.berosat.live/listen/radio_rasoulu/radio.mp3"

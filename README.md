@@ -10,6 +10,17 @@ Nous émettons depuis la ville de Matadi en République Démocratique du Congo. 
           "thumbs": "https://od.lk/s/NDZfOTMwMzcwMDRf/Edbradio.jpg",
           "titles": "EDB FM"
 },
+
+{
+     "descriptions": "Éveil MédiasRadio est une radio en ligne portée par Éveil Médias et Développement (EMD ASBL), une organisation engagée dans la promotion de l’information fiable, de l’éducation, de la culture, de la citoyenneté et du développement communautaire. Basée à Kimpese, dans le territoire de Songololo, province du Kongo Central, en République démocratique du Congo, Éveil MédiasRadio a pour vocation de proposer une information de proximité, tout en offrant une ouverture sur les enjeux nationaux et internationaux. La radio donne la parole aux jeunes, aux acteurs communautaires, aux entrepreneurs, aux professionnels, aux artistes et aux différentes composantes de la société. À travers ses émissions d’information, de débats, d’éducation, de culture, de sensibilisation et de divertissement, Éveil MédiasRadio ambitionne de contribuer à l’éveil des consciences, au renforcement de la citoyenneté et à la valorisation des initiatives locales. Slogan : « L’information qui éveille, la voix qui rassemble. » Téléphone : + 243894060975 nsinguluroger@gmail.com",
+          "source": [
+            "https://radiostation.berosat.live/listen/emd-radio/radio.mp3"
+          ],
+          "subtitles": "All Channels",
+          "thumbs": "https://od.lk/thumb/NzNfMTQwNzUwNTM4X0xXZDV1",
+          "titles": "EMD RADIO"
+},
+
 {
      "descriptions": "Kultura fm est la première radio generaliste de la ville de Kinshasa en République Démocratique du Congo",
           "source": [

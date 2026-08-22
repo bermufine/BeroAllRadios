@@ -39,6 +39,34 @@ Nous émettons depuis la ville de Matadi en République Démocratique du Congo. 
 },
 
 {
+     "descriptions": "RADIO TÉLÉVISION COMMUNAUTAIRE DE MBANZA-NGUNGU.
+102.6 FM
+Avenue de la poste N° 1 Q. Noki réf. Ex hôtel cosmopolite ville de Mbanza-Ngungu/Kongo-Central. Pour tout contact : rtcmb05@gmail.com ou encore kaddykadiwaku@gmail.com",
+          "source": [
+            "https://radiostation.berosat.live/listen/rtcmb_fm/radio.mp3"
+          ],
+          "subtitles": "All Channels",
+          "thumbs": "https://od.lk/thumb/NzNfMTQwNzM2MDk5X2dZTTRG",
+          "titles": "RTCMB"
+},
+
+{
+     "descriptions": "Radio Bangu de Kwilungongo, Lancée depuis le 30 juin 2004, Radio Bangu (qui tire son nom du Mont Cristal appelé Bangu)   est une radio communautaire à format généraliste qui a pour mission de promouvoir le développement social participatif et intégral de toute la communauté se trouvant dans son bassin d’écoute par les émissions sur le développement, la culture de la paix, les informations de proximité et le divertissement. 
+Elle est au service de toutes les couches sociales sans discrimination aucune. Elle est l’outil d’expression, d’éducation, d’information et de divertissement des communautés de base. 
+Son Géniteur  et  Directeur est Monsieur  Rigobert Malalako, Ingénieur Technicien   en Electronique, Journaliste formateur   en production animation radiophonique et actuellement Secrétaire Exécutif National de la FRPC.  
+Radio Bangu diffuse de 04h45 à 00h30 en dialectes locales notamment en Kindibu et en Manianga.  Le lingala, le kikongo, le français, le portugais et l’anglais s’ajoutent aux deux premières.
+Radio Bangu de Kwilungongo est l’extension de celle de Kimpese mais émettant sur 89.6MHz à partir de la Cité sucrière de Kwilungongo avec un programme adapté.
+E mail : rigomalko2@gmail.com",
+          "source": [
+            "https://radiostation.berosat.live/listen/radio_bangu_kwilungongo/radio.mp3"
+          ],
+          "subtitles": "All Channels",
+          "thumbs": "https://od.lk/thumb/NzNfMTQwNzM2NzEyX00yMjdz",
+          "titles": "RADIO BANGU"
+},
+
+
+{
      "descriptions": "Central Voice Radio is Zambia's premier 24/7 radio station, bringing you the latest news, current affairs, and community stories. Tune in for engaging talk shows, gospel music, and uplifting content that inspires and informs.",
           "source": [
             "http://radiostation.berosat.live/listen/centralvoice_radio/radio.mp3"

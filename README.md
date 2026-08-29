@@ -120,6 +120,8 @@ E mail : rigomalko2@gmail.com",
 
 {"descriptions":"UDPS RADIO est l'une des stations de musique les plus populaires. Station UDPS RADIO diffusant de la musique et des programmes à la fois dans l'air et en ligne. À l'origine, il s'agit d'une chaîne de radio pop, d'actualités et de discussion diffusée 24 heures sur 24 en ligne. UDPS RADIO exploite également divers programmes musicaux de manière cohérente pour les personnes de tous âges.","source":["http://37.59.42.207:9194/"],"subtitles":"All Radios","thumbs":"https://od.lk/s/M18yODY1NzM5Mzlf/udps.png","titles":"UDPS FM"},
 
+{"descriptions":"Radio RTNC est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["https://radio8.pro-fhi.net/live/rtnc"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","titles":"RTNC 1 FM"},
+
 {"descriptions":"Radio Egg Pro fm est une station indépendante pour la génération en ligne, connectant ceux qui ont déjà un lien fort avec le Congo.","source":["http://dione.shoutca.st:8359/index?fbclid=IwZXh0bgNhZW0CMTEAAR0Jgic_SR2u947hJOlQy9fziQVjgGsGBXFqDXGzvtwV5BElDNT2oCS9HXs_aem_ZmFrZWR1bW15MTZieXRlcw"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NDZfODgwNjAxODZf/eggFM.jpg","titles":"RADIO EGG PRO FM"},
 
 {"descriptions":"EMB-Mission FM est l'une des radios de la Republique Democratique du Congo Generaliste qui Emettant a Kinshasa (RDC)","source":["https://stream.zeno.fm/3rbd2vdzpqlvv.mp3"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NDZfODA3NDk2MzBf/embtv.jpg","titles":"EMB-MISSION"},
@@ -307,8 +309,6 @@ E mail : rigomalko2@gmail.com",
 {"descriptions":"Radio Maria Brazzaville est une l'une des radios Catholic Emettant a Brazzaville avec des programme en diversites","source":["https://onlineradiobox.com/json/cg/mariacongo/play?platform=web"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NDlf/maria.jpeg","titles":"MARIA BRAZZAVILLE"},
 
 {"descriptions":"Radio RATELKI est une l'une des radios Chretienne de la Republique Democratique du Congo, Emettant a Nkamba avec des programme en diversites","source":["https://liveonlineradio.net/ratelki-90-2-fm"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NDNf/ratelki.jpeg","titles":"RATELKI FM"},
-
-{"descriptions":"Radio RTNC est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["http://radio.rtnc.cd:8000/radio.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","titles":"RTNC 1 FM"},
 
 {"descriptions":"Radio Digital Congo Net diffuse ses programmes décorent ses playlists pour un public socialement et culturellement diversifié. En plus de la diffusion d'une variété de programmes d'information et de divertissement, Radio Digital Congo Net diffuse diverses productions locales. Leurs productions et programmes d'information contiennent des domaines tels que l'actualité, la cuisine, la culture, le divertissement et les sports. Ils fonctionnent comme un pont entre les auditeurs et la musique.","source":["https://radiodigitalcongofm.ice.infomaniak.ch/digitalcongofm-96.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzAxNzU1MjBf/digitalkongo","titles":"DIGITAL FM"},
 

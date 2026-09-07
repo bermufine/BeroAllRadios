@@ -106,6 +106,16 @@ E mail : rigomalko2@gmail.com",
           "titles": "Radio Bangu Kimpese"
 },
 
+{
+     "descriptions": "Radio Balafon est une station de radio camerounaise dynamique et populaire, fortement ancrée dans la culture et l’actualité du pays. Elle propose une programmation variée destinée à informer, divertir et rapprocher les auditeurs au quotidien. La radio offre notamment des contenus liés à l’information, aux débats, à la société, à la culture, à la musique camerounaise et africaine, au sport et au divertissement. À travers ses émissions et ses animateurs, Radio Balafon accorde une place importante à l’interactivité avec les auditeurs et à la promotion des talents et de la culture camerounaise. Avec sa présence en FM à Douala, Yaoundé et Bafoussam, Radio Balafon poursuit son développement et renforce sa proximité avec son public. Radio Balafon, c’est une radio proche des auditeurs, dynamique et engagée, qui rassemble autour de l’information, de la musique, de la culture, du débat et du divertissement.",
+          "source": [
+            "https://broadcasting-channels.com:9043/listen.mp3"
+          ],
+          "subtitles": "All Channels",
+          "thumbs": "https://od.lk/thumb/M18zMzU4MTc0NDNfc1Q1Qlg",
+          "titles": "RADIO BALAFON"
+},
+
 {"descriptions":"Grand Media FM est l'une des radios de la Republique Democratique du Congo Generaliste qui Emettant a Kolwezi (RDC) avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre.","source":["https://sam-lbfdbroadcast.radioca.st/;"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NDZfODIwMTQwOTNf/grandMediaFM.jpg","titles":"GRAND MEDIA FM"},
 
 {"descriptions":"Radio de la Femme, est une Chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....","source":["https://stream.berosat.live:8158/stream"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NDZfOTEzNzg4MTVf/rtvfemme.png","titles":"RADIO FEMME"},

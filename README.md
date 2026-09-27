@@ -116,6 +116,16 @@ E mail : rigomalko2@gmail.com",
           "titles": "RADIO BALAFON"
 },
 
+{
+     "descriptions": "OASIS MEDIA est une radio dédié à l'information  culture ,et l'évangélisation",
+          "source": [
+            "https://radiodiffusion.ncdap.com:5218/stream"
+          ],
+          "subtitles": "All Channels",
+          "thumbs": "https://od.lk/thumb/M18zMzcxMjAyOTlfY3lZNTc",
+          "titles": "OASIS FM"
+},
+
 {"descriptions":"Grand Media FM est l'une des radios de la Republique Democratique du Congo Generaliste qui Emettant a Kolwezi (RDC) avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre.","source":["https://sam-lbfdbroadcast.radioca.st/;"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NDZfODIwMTQwOTNf/grandMediaFM.jpg","titles":"GRAND MEDIA FM"},
 
 {"descriptions":"Radio de la Femme, est une Chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....","source":["https://stream.berosat.live:8158/stream"],"subtitles":"All Radios","thumbs":"https://od.lk/s/NDZfOTEzNzg4MTVf/rtvfemme.png","titles":"RADIO FEMME"},

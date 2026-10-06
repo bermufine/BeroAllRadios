@@ -119,7 +119,7 @@ E mail : rigomalko2@gmail.com",
 {
      "descriptions": "OASIS MEDIA FM est une radio dédié à l'information  culture ,et l'évangélisation",
           "source": [
-            "https://radiodiffusion.ncdap.com:5218/stream"
+            "https://radiodiffusion.ncdap.com:6194/stream"
           ],
           "subtitles": "All Channels",
           "thumbs": "https://od.lk/thumb/M18zMzcxMjAyOTlfY3lZNTc",
